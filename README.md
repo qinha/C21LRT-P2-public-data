@@ -1,16 +1,20 @@
-# P2-21-cm-figures
+# P2-public-data
 
-Store the files and codes for producing figures of P2 of 21-cm.
+Data Availability for C21LRT (P2),  
+ArXiv: 
 
-Fig1:
+ADS link:
 
-Fig2:
+Data for Figs. ... for P2 are available here.
+
+We used EOS2021 https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3657M/abstract (There data can be found here: https://drive.google.com/drive/folders/1-50AO-i3arCnfHc22YWXJacs4u-xsPL6) 
+
+- Figure 1: 
+- Figure 2: 
+- Figure 3: turbulent velocities
+- Figure 4: 
+- Figure 5:
+
+Email: Qin Han (qin.han.21@ucl.ac.uk)
 
 
-Appendix:
-
-- Fig.a.1: 
-bubble size
-
-- Fig.a.2:
-line profiles
